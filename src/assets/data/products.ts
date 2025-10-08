@@ -6,7 +6,7 @@ export const products: Product[] = [
     id: 1,
     name: "iPhone 15 Pro",
     price: 1229,
-    image: "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg",
+    image: "https://images.pexels.com/photos/34018284/pexels-photo-34018284.jpeg",
     description: "Le dernier iPhone avec puce A17 Pro, caméra avancée et design en titane.",
     category: "Smartphones",
     rating: 4.8,
