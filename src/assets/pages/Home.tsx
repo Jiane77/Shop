@@ -70,9 +70,9 @@ const Home = () => {
               className="relative"
             >
               <img
-                src="https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg"
+                src="https://i.pinimg.com/736x/33/fb/c9/33fbc9691e8373b22c56d0c4f46e2990.jpg"
                 alt="Produits premium"
-                className="w-full h-auto rounded-2xl shadow-2xl"
+                className="w1/2 -full h-auto rounded-2xl shadow-2xl"
               />
               <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-xl shadow-lg">
                 <div className="flex items-center space-x-2">
